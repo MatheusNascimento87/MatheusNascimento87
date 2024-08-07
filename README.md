@@ -3,7 +3,7 @@
 ## Sobre mim 👨‍💻
 - Nome: Matheus Pereira do Nascimento
 - Idade: 24 anos
-- 1º período de Engenharia da Computação
+- 2º período de Engenharia da Computação
 - Inglês avançado C1
 - Em busca de aprender e melhorar minhas habilidades em programação, com interesse em trabalhar como desenvolvedor Back-End.
 
