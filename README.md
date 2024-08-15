@@ -4,7 +4,6 @@
 - Nome: Matheus Pereira do Nascimento
 - Idade: 24 anos
 - 2º período de Engenharia da Computação
-## GitHub Stats
 <a href="https://github.com/MatheusNascimento87/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusNascimento87&theme=dracula&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
 </a>
