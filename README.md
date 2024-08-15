@@ -4,8 +4,13 @@
 - Nome: Matheus Pereira do Nascimento
 - Idade: 24 anos
 - 2º período de Engenharia da Computação
-- Inglês avançado C1
-- Em busca de aprender e melhorar minhas habilidades em programação, com interesse em trabalhar como desenvolvedor Back-End.
+## GitHub Stats
+<a href="https://github.com/MatheusNascimento87/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusNascimento87&theme=dracula&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+</a>
+<a href="https://github.com/MatheusNascimento87/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusNascimento87&theme=dracula&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&layout=compact&langs_count=8&card_width=200" />
+</a>
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/me/?trk=opento_sprofile_goalscard)
@@ -31,12 +36,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt= "eclipse" height="50" width="50" />
           
 
-## GitHub Stats
-<a href="https://github.com/MatheusNascimento87/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusNascimento87&theme=dracula&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
-</a>
-<a href="https://github.com/MatheusNascimento87/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusNascimento87&theme=dracula&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&layout=compact&langs_count=8&card_width=200" />
-</a>
 
 
