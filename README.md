@@ -4,7 +4,7 @@
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusNascimento87&theme=dracula&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
 </a>
 <a href="https://github.com/MatheusNascimento87/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusNascimento87&theme=dracula&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&layout=compact&langs_count=8&card_width=200" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusNascimento87&theme=dracula&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&layout=compact&langs_count=8&card_width=200" />
 </a><br>
 
 #### - 👨‍🎓 `Estudando atualmente:` Ecossistema Spring, Banco de dados Sequênciais, API
