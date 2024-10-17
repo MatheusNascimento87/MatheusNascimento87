@@ -1,10 +1,10 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=790&color=FF3C3C&width=435&lines=%F0%9F%91%8B+Hello%2C+there!;I'm+Matheus+Pereira)](https://git.io/typing-svg)
 
 <a href="https://github.com/MatheusNascimento87/github-readme-stats">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusNascimento87&theme=dracula&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusNascimento87&theme=dracula&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
 </a>
 <a href="https://github.com/MatheusNascimento87/convoychat">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusNascimento87&theme=dracula&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&layout=compact&langs_count=8&card_width=200" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusNascimento87&theme=dracula&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&layout=compact&langs_count=8" />
 </a><br>
 
 #### - 👨‍🎓 `Estudando atualmente:` Ecossistema Spring, Banco de dados Sequênciais, API
